@@ -24,3 +24,9 @@ Blacklist: - Block websites that are known violaters of profile. For example, I 
 A voluntary firewall of China situation. Plugins already exist for browsers that block access to websites. I want to avoid    
 knowing the websites exist in the first place. The can't show up in search, and any links to their content much be washed from 
 webpages.
+
+
+
+
+<b>Contact:</b>
+Michael Feneley: mfeneley(at)vt.edu
