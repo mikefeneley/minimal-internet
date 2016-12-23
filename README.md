@@ -25,8 +25,10 @@ A voluntary firewall of China situation. Plugins already exist for browsers that
 knowing the websites exist in the first place. The can't show up in search, and any links to their content much be washed from 
 webpages.
 
-
+<br>
+<br>
 
 
 <b>Contact:</b>
+
 Michael Feneley: mfeneley(at)vt.edu
