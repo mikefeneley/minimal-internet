@@ -27,8 +27,6 @@ webpages.
 
 <br>
 <br>
-
-
 <b>Contact:</b>
 
 Michael Feneley: mfeneley(at)vt.edu
